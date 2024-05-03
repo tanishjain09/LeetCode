@@ -5,10 +5,7 @@ class Solution {
                 if(s==null || newString.length()==0){
                 return true;
                 }
-                char start = newString.charAt(i);
-                char end = newString.charAt(newString.length()-1-i);
-
-                if(start!=end){
+                if(newString.charAt(i) != newString.charAt(newString.length()-1-i)){
                     return false;
                 }
             }
