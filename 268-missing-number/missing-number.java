@@ -1,22 +1,12 @@
 class Solution {
     public int missingNumber(int[] arr) {
+        //optimised solution after applying the sum of n number concept
         int n = arr.length;
-        int i = 0;
-        while (i < n){
-            if (isIndexPresent(arr,i)) {
-                i++;
-            }else{
-                return i;
-            }
+        int sumOfNNumber = (n * (n+1) ) /2;
+        int sumOfArray = 0;
+        for(int i = 0; i< arr.length; i++){
+            sumOfArray += arr[i];
         }
-        return i;
-    }
-    private boolean isIndexPresent(int[] arr,int target){
-        for(int i=0; i<arr.length; i++){
-            if(arr[i] == target){
-                return true;
-            }
-        }
-        return false;
+        return sumOfNNumber - sumOfArray;
     }
 }
