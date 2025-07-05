@@ -4,10 +4,11 @@ class Solution {
         List<Integer> result = new ArrayList<>();
         while(i< nums.length){
             int correct = nums[i] - 1;
+            int arrTemp = nums[i];
             if(nums[i] != nums[correct]){
                 int temp = nums[i];
-                nums[i] = nums[correct];
-                nums[correct] = temp;
+                nums[i] = nums[temp - 1];
+                nums[temp -1] = temp;
             }else{
                 i++;
             }
