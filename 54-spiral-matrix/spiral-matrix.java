@@ -1,40 +1,38 @@
 class Solution {
-    public List<Integer> spiralOrder(int[][] matrix) {
-     List<Integer> ans = new ArrayList<>();
+    public List<Integer> spiralOrder(int[][] arr) {
+        List<Integer> result = new ArrayList<>();
 
-        int n = matrix.length;
-        int m = matrix[0].length;
+        int n = arr.length;
+        int m = arr[0].length;
+        int left = 0;
+        int right = m - 1;
+        int top = 0;
+        int bottom = n -1;
 
-        int top = 0, bottom = n-1 ;
-        int left = 0, right = m-1;
-
-        while (top<= bottom && left<=right) {
-            //top
-            for(int i=left; i<=right; i++ ){
-                ans.add(matrix[top][i]);
+        while (top <= bottom && left <= right ){
+            for(int i = left; i <= right; i++){
+                result.add(arr[top][i]);
             }
             top++;
-            //right
-            for(int i=top; i<=bottom; i++){
-                ans.add(matrix[i][right]);
+            for(int i = top; i <= bottom; i++){
+                result.add(arr[i][right]);
             }
             right--;
-            //bottom
-            if(top<=bottom){
-                for(int i=right; i>=left; i--){
-                ans.add(matrix[bottom][i]);
+            //check here that if the top is still greater equal to bottom
+            if(top <= bottom){
+                for(int i = right; i >= left; i--){
+                    result.add(arr[bottom][i]);
+                }
+                bottom--;
             }
-            bottom--;
-        }
-            
-            //right
-            if(left<=right){
-            for(int i=bottom; i>=top; i--){
-                ans.add(matrix[i][left]);
+            //here we check  for left and still greater than equal to right
+            if(left <= right) {
+                for (int i = bottom; i >= top; i--) {
+                    result.add(arr[i][left]);
+                }
+                left++;
             }
-            left++;
         }
-    }
-        return ans;
+        return result;
     }
 }
