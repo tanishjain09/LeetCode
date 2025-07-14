@@ -1,17 +1,22 @@
 class Solution {
+    //recursive solution
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> outer = new ArrayList<>();
-
-        outer.add(new ArrayList<>());
-
-        for(int num : nums){
-            int n = outer.size();
-            for(int i = 0; i < n; i++){
-                List<Integer> internal = new ArrayList<>(outer.get(i));
-            internal.add(num);
-            outer.add(internal);
-            }
+        List<List<Integer>> res = new ArrayList<>();
+        subsetsum(nums,0, res, new ArrayList<Integer>());
+        return res;
+    }
+    private void subsetsum(int[] nums, int index, List<List<Integer>> res, List<Integer> subset){
+        if(index == nums.length){
+            res.add(new ArrayList<>(subset));
+            return;
         }
-        return outer;
+
+        //add the number
+        subset.add(nums[index]);
+        subsetsum(nums, index+1, res, subset);
+
+        //will not add the nums
+        subset.remove(subset.size() - 1);
+        subsetsum(nums, index+1, res, subset);
     }
 }
