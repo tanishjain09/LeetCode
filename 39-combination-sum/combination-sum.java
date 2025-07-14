@@ -13,10 +13,7 @@ class Solution {
             }
             return;
         }
-        if(target == 0){
-            ans.add(new ArrayList<>(list));
-            return;
-        }
+        
         
 
         if(arr[index] <= target){
