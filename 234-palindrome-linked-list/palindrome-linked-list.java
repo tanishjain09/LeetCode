@@ -10,50 +10,34 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        ListNode mid = findMiddle(head);
-        ListNode headSecond = reverse(mid);
-        ListNode reverseHead = headSecond;
+        if(head == null || head.next == null) return true;
 
-        while(head != null && headSecond !=null){
-            if(head.val != headSecond.val) break;
-            head = head.next;
-            headSecond = headSecond.next;
-        }
-
-        reverse(reverseHead);
-        if(head==null || headSecond == null){
-            return true;
-        }
-        return false;
-    }
-
-    private ListNode findMiddle(ListNode head){
-        ListNode slow = head;
-        ListNode fast = head;
-
-        while(fast!=null && fast.next != null){
-            fast = fast.next.next;
+        ListNode slow = head, fast = head;
+        while(fast != null && fast.next != null){
             slow = slow.next;
+            fast = fast.next.next;
         }
 
-        return slow;
+        ListNode secondHalf = reverseList(slow);
+        ListNode firstHalf = head;
+        ListNode temp = secondHalf;
+        while(temp != null){
+            if(firstHalf.val != temp.val){
+                return false;
+            }
+            firstHalf = firstHalf.next;
+            temp = temp.next;
+        }
+        return true;
     }
 
-    private ListNode reverse(ListNode head){
-        if(head == null){
-            return head;
-        }
-        ListNode prev = null;
-        ListNode present = head;
-        ListNode next = present.next;
-
-        while(present != null){
-            present.next = prev;
-            prev = present;
-            present = next;
-            if(next != null){
-                next = next.next;
-            }
+    private ListNode reverseList(ListNode head){
+        ListNode prev = null, curr = head;
+        while(curr != null){
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
         }
         return prev;
     }
