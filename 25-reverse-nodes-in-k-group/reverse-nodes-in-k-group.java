@@ -10,10 +10,9 @@
  */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        int count = 0;
-
-        //to count if k nodes is avalable
         ListNode temp = head;
+        int count = 0;
+        
         while(count < k){
             if(temp == null){
                 return head;
@@ -21,13 +20,11 @@ class Solution {
             temp = temp.next;
             count++;
         }
+        
+        ListNode prevNode = reverseKGroup(temp,k);
 
-        //recusively call for rest of groups
-        ListNode prevNode = reverseKGroup(temp, k);
-
-        //reverse the current node
         temp = head;
-        count = 0;
+        count=0;
         while(count < k){
             ListNode next = temp.next;
             temp.next = prevNode;
