@@ -1,34 +1,49 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
-        int start = 0;
-        int end = 0;
+        int low = max(nums);
+        int high = sum(nums);
 
-        for(int i = 0; i < nums.length; i++){
-            start = Math.max(start, nums[i]);
-            end += nums[i];
-        }
-
-        while(start < end){
-            int mid = start + (end - start ) / 2;
-
-            int sum = 0;
-            int pieces = 1;
-
-            for(int num : nums){
-                if(sum + num > mid){
-                    sum = num;
-                    pieces++;   
-                }else{
-                    sum += num;
-                }
-            }
-                if(pieces > k){
-                    start = mid + 1;
-                }else{
-                    end = mid;
-                }
+        while(low <= high){
+            int mid =(low + high)  /2;
             
+            int count = countPossibleWays(nums, mid);
+
+            if(count > k){
+                low = mid + 1;
+            }else{
+                high = mid - 1;
+            }
         }
-        return start;
+        return low;
+    }
+
+    private int countPossibleWays(int[] nums, int max){
+        int count = 1;
+        int sum = 0;
+
+        for(int num : nums){
+            if(sum + num > max){
+                sum = num;
+                count++;
+            }else{
+                sum += num;
+            }
+        }
+        return count;
+    }
+
+    private int max(int[] nums){
+        int max = 0;
+        for(int num : nums){
+            max = Math.max(num, max);
+        }
+        return max;
+    }
+    private int sum(int[] nums){
+        int sum = 0;
+        for(int num : nums){
+            sum += num;
+        }
+        return sum;
     }
 }
