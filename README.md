@@ -20,4 +20,20 @@
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/tanishjain09/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+## Hash Table
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tanishjain09/LeetCode/tree/master/0146-lru-cache) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tanishjain09/LeetCode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tanishjain09/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tanishjain09/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
