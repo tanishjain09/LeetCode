@@ -4,12 +4,16 @@ class Solution {
     }
     private int fn(int[] nums, int k){
         int l = 0, r = 0, count = 0;
-        Map<Integer, Integer> mpp = new HashMap<>();
+        int n = nums.length;
+        int[] freq = new int[n+1];
+        int distinct = 0;
         while(r < nums.length){
-            mpp.put(nums[r], mpp.getOrDefault(nums[r], 0) + 1);
-            while(mpp.size() > k){
-                mpp.put(nums[l], mpp.get(nums[l]) - 1);
-                if(mpp.get(nums[l]) == 0) mpp.remove(nums[l]);
+            if(freq[nums[r]] == 0) distinct++;
+            freq[nums[r]]++;
+            
+            while(distinct > k){
+                freq[nums[l]]--;
+                if(freq[nums[l]] == 0) distinct--;
                 l++;
             }
             count = count + (r - l + 1);
