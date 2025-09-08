@@ -10,6 +10,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/tanishjain09/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/tanishjain09/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2227-sum-of-subarray-ranges](https://github.com/tanishjain09/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
@@ -33,6 +34,7 @@
 | [0146-lru-cache](https://github.com/tanishjain09/LeetCode/tree/master/0146-lru-cache) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/tanishjain09/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/tanishjain09/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -81,8 +83,13 @@
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/tanishjain09/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/tanishjain09/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/tanishjain09/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+## Counting
+|  |
+| ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/tanishjain09/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
