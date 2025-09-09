@@ -7,6 +7,7 @@
 | [0041-first-missing-positive](https://github.com/tanishjain09/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/tanishjain09/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tanishjain09/LeetCode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/tanishjain09/LeetCode/tree/master/0135-candy) |
 | [0287-find-the-duplicate-number](https://github.com/tanishjain09/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/tanishjain09/LeetCode/tree/master/0455-assign-cookies) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/tanishjain09/LeetCode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/tanishjain09/LeetCode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/tanishjain09/LeetCode/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
