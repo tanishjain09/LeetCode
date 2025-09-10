@@ -20,10 +20,12 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanishjain09/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tanishjain09/LeetCode/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/tanishjain09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/tanishjain09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tanishjain09/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tanishjain09/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/tanishjain09/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0678-valid-parenthesis-string](https://github.com/tanishjain09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tanishjain09/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tanishjain09/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
@@ -113,6 +116,7 @@
 | [0055-jump-game](https://github.com/tanishjain09/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/tanishjain09/LeetCode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/tanishjain09/LeetCode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/tanishjain09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tanishjain09/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tanishjain09/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sorting
