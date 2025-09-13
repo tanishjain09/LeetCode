@@ -66,12 +66,14 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tanishjain09/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/tanishjain09/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tanishjain09/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/tanishjain09/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tanishjain09/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/tanishjain09/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Two Pointers
@@ -136,4 +139,8 @@
 | [0056-merge-intervals](https://github.com/tanishjain09/LeetCode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/tanishjain09/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tanishjain09/LeetCode/tree/master/0455-assign-cookies) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/tanishjain09/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
