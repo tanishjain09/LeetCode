@@ -11,6 +11,7 @@
 | [0056-merge-intervals](https://github.com/tanishjain09/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tanishjain09/LeetCode/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/tanishjain09/LeetCode/tree/master/0135-candy) |
+| [0215-kth-largest-element-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/tanishjain09/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/tanishjain09/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanishjain09/LeetCode/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,10 +149,19 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/tanishjain09/LeetCode/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/tanishjain09/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tanishjain09/LeetCode/tree/master/0455-assign-cookies) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tanishjain09/LeetCode/tree/master/0100-same-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
