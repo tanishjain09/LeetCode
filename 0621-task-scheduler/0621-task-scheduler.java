@@ -1,31 +1,20 @@
 class Solution {
     public int leastInterval(char[] tasks, int n) {
-        Map<Character, Integer> freq = new HashMap<>();
+        int[] freq = new int[26];
 
-        for(char t: tasks){
-            freq.put(t, freq.getOrDefault(t, 0) + 1);
+        for(char t : tasks){
+            freq[t - 'A']++;
         }
-        PriorityQueue<Integer> maxHeap = new PriorityQueue<>((a,b) -> b - a);
-
-        maxHeap.addAll(freq.values());
-
-        Queue<int[]> cooldown = new LinkedList<>();
-
-        int time = 0;
-        while(!maxHeap.isEmpty() || !cooldown.isEmpty()){
-            time++;
-
-            if(!maxHeap.isEmpty()){
-                int count = maxHeap.poll() -1;
-                if(count > 0){
-                    cooldown.add(new int[]{count, time + n});
-                }
-            }
-
-            if(!cooldown.isEmpty() && cooldown.peek()[1] == time){
-                maxHeap.add(cooldown.poll()[0]);
-            }
+        int fMax = 0;
+        for(int f: freq){
+            fMax = Math.max(f, fMax);
         }
-        return time;
+        int maxCount = 0;
+        for(int f : freq){
+            if(f == fMax) maxCount++;
+        }
+
+        int minIntervals = (fMax -1) * (n+1) + maxCount;
+        return Math.max(minIntervals, tasks.length);
     }
 }
