@@ -10,6 +10,7 @@
 | [0055-jump-game](https://github.com/tanishjain09/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/tanishjain09/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tanishjain09/LeetCode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/tanishjain09/LeetCode/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/tanishjain09/LeetCode/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/tanishjain09/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -129,6 +130,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tanishjain09/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/tanishjain09/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
@@ -226,4 +228,8 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/tanishjain09/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tanishjain09/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tanishjain09/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
