@@ -1,15 +1,19 @@
 class Solution {
     public boolean isValidSerialization(String preorder) {
         String[] nodes = preorder.split(",");
-        int slot = 1;
-        for(String s: nodes){
-            if(slot <= 0) return false;
-            if(s.equals("#")){
-                slot -= 1;
-            }else{
-                slot += 1;
+        Stack<String> st = new Stack<>();
+        for (String node : nodes) {
+            st.push(node);
+            while (st.size() >= 3 &&
+                    st.get(st.size() - 1).equals("#") &&
+                    st.get(st.size() - 2).equals("#") &&
+                    !st.get(st.size() - 3).equals("#")) {
+                st.pop();
+                st.pop();
+                st.pop();
+                st.push("#");
             }
         }
-        return slot==0?true:false;
+        return st.size() == 1 && st.peek().equals("#");
     }
 }
