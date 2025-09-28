@@ -16,6 +16,7 @@
 | [0064-minimum-path-sum](https://github.com/tanishjain09/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/tanishjain09/LeetCode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanishjain09/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0120-triangle](https://github.com/tanishjain09/LeetCode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/tanishjain09/LeetCode/tree/master/0135-candy) |
 | [0213-house-robber-ii](https://github.com/tanishjain09/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -41,6 +42,7 @@
 | [0062-unique-paths](https://github.com/tanishjain09/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/tanishjain09/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tanishjain09/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/tanishjain09/LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanishjain09/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/tanishjain09/LeetCode/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/tanishjain09/LeetCode/tree/master/0435-non-overlapping-intervals) |
