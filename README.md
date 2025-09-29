@@ -22,6 +22,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/tanishjain09/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/tanishjain09/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/tanishjain09/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tanishjain09/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/tanishjain09/LeetCode/tree/master/0455-assign-cookies) |
@@ -46,6 +47,7 @@
 | [0120-triangle](https://github.com/tanishjain09/LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanishjain09/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/tanishjain09/LeetCode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/tanishjain09/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tanishjain09/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/tanishjain09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
