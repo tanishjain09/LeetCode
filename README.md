@@ -50,6 +50,7 @@
 | [0213-house-robber-ii](https://github.com/tanishjain09/LeetCode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/tanishjain09/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tanishjain09/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0516-longest-palindromic-subsequence](https://github.com/tanishjain09/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/tanishjain09/LeetCode/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/tanishjain09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -251,6 +252,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tanishjain09/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanishjain09/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/tanishjain09/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/tanishjain09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tanishjain09/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/tanishjain09/LeetCode/tree/master/1250-longest-common-subsequence) |
