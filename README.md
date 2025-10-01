@@ -17,6 +17,7 @@
 | [0078-subsets](https://github.com/tanishjain09/LeetCode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanishjain09/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/tanishjain09/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishjain09/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/tanishjain09/LeetCode/tree/master/0135-candy) |
 | [0213-house-robber-ii](https://github.com/tanishjain09/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -47,6 +48,7 @@
 | [0064-minimum-path-sum](https://github.com/tanishjain09/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/tanishjain09/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/tanishjain09/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishjain09/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanishjain09/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/tanishjain09/LeetCode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/tanishjain09/LeetCode/tree/master/0416-partition-equal-subset-sum) |
