@@ -47,6 +47,7 @@
 | [0062-unique-paths](https://github.com/tanishjain09/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/tanishjain09/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tanishjain09/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/tanishjain09/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/tanishjain09/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/tanishjain09/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishjain09/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -252,6 +253,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishjain09/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanishjain09/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0071-simplify-path](https://github.com/tanishjain09/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/tanishjain09/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/tanishjain09/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/tanishjain09/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/tanishjain09/LeetCode/tree/master/0127-word-ladder) |
