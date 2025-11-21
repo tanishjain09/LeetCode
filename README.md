@@ -23,6 +23,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tanishjain09/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/tanishjain09/LeetCode/tree/master/0135-candy) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/tanishjain09/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0198-house-robber](https://github.com/tanishjain09/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tanishjain09/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/tanishjain09/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -64,6 +65,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tanishjain09/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanishjain09/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/tanishjain09/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0198-house-robber](https://github.com/tanishjain09/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tanishjain09/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/tanishjain09/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/tanishjain09/LeetCode/tree/master/0416-partition-equal-subset-sum) |
