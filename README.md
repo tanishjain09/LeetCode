@@ -28,6 +28,7 @@
 | [0287-find-the-duplicate-number](https://github.com/tanishjain09/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/tanishjain09/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/tanishjain09/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tanishjain09/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/tanishjain09/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tanishjain09/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -104,6 +105,7 @@
 | [0127-word-ladder](https://github.com/tanishjain09/LeetCode/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/tanishjain09/LeetCode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/tanishjain09/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tanishjain09/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/tanishjain09/LeetCode/tree/master/0355-design-twitter) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tanishjain09/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanishjain09/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -190,6 +192,7 @@
 | [0278-first-bad-version](https://github.com/tanishjain09/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/tanishjain09/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/tanishjain09/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/tanishjain09/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/tanishjain09/LeetCode/tree/master/0441-arranging-coins) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanishjain09/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tanishjain09/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -224,6 +227,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tanishjain09/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/tanishjain09/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0349-intersection-of-two-arrays](https://github.com/tanishjain09/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/tanishjain09/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanishjain09/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1129-longest-string-chain](https://github.com/tanishjain09/LeetCode/tree/master/1129-longest-string-chain) |
@@ -311,6 +315,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/tanishjain09/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tanishjain09/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tanishjain09/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/tanishjain09/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tanishjain09/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/tanishjain09/LeetCode/tree/master/0621-task-scheduler) |
