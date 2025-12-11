@@ -80,6 +80,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/tanishjain09/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tanishjain09/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/tanishjain09/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tanishjain09/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/tanishjain09/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/tanishjain09/LeetCode/tree/master/1129-longest-string-chain) |
@@ -190,6 +191,7 @@
 | [0687-longest-univalue-path](https://github.com/tanishjain09/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0733-flood-fill](https://github.com/tanishjain09/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/tanishjain09/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tanishjain09/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -354,6 +356,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanishjain09/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/tanishjain09/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/tanishjain09/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tanishjain09/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
@@ -366,6 +369,7 @@
 | [0355-design-twitter](https://github.com/tanishjain09/LeetCode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/tanishjain09/LeetCode/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/tanishjain09/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tanishjain09/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tanishjain09/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
@@ -441,8 +445,10 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/tanishjain09/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tanishjain09/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/tanishjain09/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tanishjain09/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
