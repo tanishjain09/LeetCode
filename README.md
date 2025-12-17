@@ -22,6 +22,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanishjain09/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tanishjain09/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/tanishjain09/LeetCode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/tanishjain09/LeetCode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/tanishjain09/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/tanishjain09/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/tanishjain09/LeetCode/tree/master/0200-number-of-islands) |
@@ -73,6 +74,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanishjain09/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tanishjain09/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanishjain09/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/tanishjain09/LeetCode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/tanishjain09/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/tanishjain09/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tanishjain09/LeetCode/tree/master/0213-house-robber-ii) |
@@ -118,6 +120,7 @@
 | [0076-minimum-window-substring](https://github.com/tanishjain09/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanishjain09/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/tanishjain09/LeetCode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/tanishjain09/LeetCode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/tanishjain09/LeetCode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/tanishjain09/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tanishjain09/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -310,6 +313,7 @@
 | [0076-minimum-window-substring](https://github.com/tanishjain09/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/tanishjain09/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/tanishjain09/LeetCode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/tanishjain09/LeetCode/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/tanishjain09/LeetCode/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -473,9 +477,14 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/tanishjain09/LeetCode/tree/master/0139-word-break) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tanishjain09/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bitmask
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tanishjain09/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tanishjain09/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
