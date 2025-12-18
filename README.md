@@ -62,6 +62,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanishjain09/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/tanishjain09/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/tanishjain09/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tanishjain09/LeetCode/tree/master/0055-jump-game) |
@@ -258,6 +259,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanishjain09/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0287-find-the-duplicate-number](https://github.com/tanishjain09/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/tanishjain09/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/tanishjain09/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -309,6 +311,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishjain09/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/tanishjain09/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanishjain09/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0071-simplify-path](https://github.com/tanishjain09/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/tanishjain09/LeetCode/tree/master/0072-edit-distance) |
