@@ -117,6 +117,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishjain09/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/tanishjain09/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanishjain09/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/tanishjain09/LeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/tanishjain09/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -314,6 +315,7 @@
 | [0005-longest-palindromic-substring](https://github.com/tanishjain09/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/tanishjain09/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/tanishjain09/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/tanishjain09/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanishjain09/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0071-simplify-path](https://github.com/tanishjain09/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/tanishjain09/LeetCode/tree/master/0072-edit-distance) |
@@ -431,6 +433,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/tanishjain09/LeetCode/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/tanishjain09/LeetCode/tree/master/0062-unique-paths) |
 | [0282-expression-add-operators](https://github.com/tanishjain09/LeetCode/tree/master/0282-expression-add-operators) |
 | [0441-arranging-coins](https://github.com/tanishjain09/LeetCode/tree/master/0441-arranging-coins) |
