@@ -147,6 +147,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tanishjain09/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0086-partition-list](https://github.com/tanishjain09/LeetCode/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/tanishjain09/LeetCode/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/tanishjain09/LeetCode/tree/master/0355-design-twitter) |
 | [1484-linked-list-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -263,6 +264,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanishjain09/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanishjain09/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/tanishjain09/LeetCode/tree/master/0086-partition-list) |
 | [0287-find-the-duplicate-number](https://github.com/tanishjain09/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/tanishjain09/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/tanishjain09/LeetCode/tree/master/0349-intersection-of-two-arrays) |
