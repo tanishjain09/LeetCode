@@ -291,6 +291,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanishjain09/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1129-longest-string-chain](https://github.com/tanishjain09/LeetCode/tree/master/1129-longest-string-chain) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/tanishjain09/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/tanishjain09/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -468,6 +469,7 @@
 | [0754-reach-a-number](https://github.com/tanishjain09/LeetCode/tree/master/0754-reach-a-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanishjain09/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1925-count-square-sum-triples](https://github.com/tanishjain09/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [2396-strictly-palindromic-number](https://github.com/tanishjain09/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -535,4 +537,8 @@
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/tanishjain09/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/tanishjain09/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
