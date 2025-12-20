@@ -158,6 +158,7 @@
 | [0445-add-two-numbers-ii](https://github.com/tanishjain09/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanishjain09/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/tanishjain09/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -281,6 +282,7 @@
 | [0455-assign-cookies](https://github.com/tanishjain09/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanishjain09/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1129-longest-string-chain](https://github.com/tanishjain09/LeetCode/tree/master/1129-longest-string-chain) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/tanishjain09/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
