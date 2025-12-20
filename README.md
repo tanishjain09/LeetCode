@@ -54,6 +54,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/tanishjain09/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1129-longest-string-chain](https://github.com/tanishjain09/LeetCode/tree/master/1129-longest-string-chain) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tanishjain09/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1472-design-browser-history](https://github.com/tanishjain09/LeetCode/tree/master/1472-design-browser-history) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tanishjain09/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/tanishjain09/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1631-path-with-minimum-effort](https://github.com/tanishjain09/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -109,6 +110,7 @@
 | [0678-valid-parenthesis-string](https://github.com/tanishjain09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tanishjain09/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1472-design-browser-history](https://github.com/tanishjain09/LeetCode/tree/master/1472-design-browser-history) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tanishjain09/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/tanishjain09/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -158,6 +160,7 @@
 | [0355-design-twitter](https://github.com/tanishjain09/LeetCode/tree/master/0355-design-twitter) |
 | [0445-add-two-numbers-ii](https://github.com/tanishjain09/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanishjain09/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1472-design-browser-history](https://github.com/tanishjain09/LeetCode/tree/master/1472-design-browser-history) |
 | [1484-linked-list-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1669-merge-in-between-linked-lists](https://github.com/tanishjain09/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/tanishjain09/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -171,10 +174,12 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/tanishjain09/LeetCode/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tanishjain09/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1472-design-browser-history](https://github.com/tanishjain09/LeetCode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/tanishjain09/LeetCode/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/tanishjain09/LeetCode/tree/master/1472-design-browser-history) |
 ## Tree
 |  |
 | ------- |
@@ -437,6 +442,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/tanishjain09/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tanishjain09/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1472-design-browser-history](https://github.com/tanishjain09/LeetCode/tree/master/1472-design-browser-history) |
 ## Backtracking
 |  |
 | ------- |
