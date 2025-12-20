@@ -104,6 +104,7 @@
 | [0071-simplify-path](https://github.com/tanishjain09/LeetCode/tree/master/0071-simplify-path) |
 | [0173-binary-search-tree-iterator](https://github.com/tanishjain09/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0445-add-two-numbers-ii](https://github.com/tanishjain09/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/tanishjain09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tanishjain09/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -154,6 +155,7 @@
 | [0146-lru-cache](https://github.com/tanishjain09/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishjain09/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0355-design-twitter](https://github.com/tanishjain09/LeetCode/tree/master/0355-design-twitter) |
+| [0445-add-two-numbers-ii](https://github.com/tanishjain09/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanishjain09/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Design
@@ -450,6 +452,7 @@
 | [0062-unique-paths](https://github.com/tanishjain09/LeetCode/tree/master/0062-unique-paths) |
 | [0282-expression-add-operators](https://github.com/tanishjain09/LeetCode/tree/master/0282-expression-add-operators) |
 | [0441-arranging-coins](https://github.com/tanishjain09/LeetCode/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/tanishjain09/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0754-reach-a-number](https://github.com/tanishjain09/LeetCode/tree/master/0754-reach-a-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanishjain09/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1925-count-square-sum-triples](https://github.com/tanishjain09/LeetCode/tree/master/1925-count-square-sum-triples) |
