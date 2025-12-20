@@ -160,6 +160,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1669-merge-in-between-linked-lists](https://github.com/tanishjain09/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/tanishjain09/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/tanishjain09/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Design
 |  |
 | ------- |
@@ -522,4 +523,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/tanishjain09/LeetCode/tree/master/0139-word-break) |
+## Simulation
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/tanishjain09/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
