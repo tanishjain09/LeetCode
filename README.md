@@ -232,6 +232,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanishjain09/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/tanishjain09/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/tanishjain09/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2092-find-all-people-with-secret](https://github.com/tanishjain09/LeetCode/tree/master/2092-find-all-people-with-secret) |
@@ -419,6 +420,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tanishjain09/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/tanishjain09/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/tanishjain09/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2092-find-all-people-with-secret](https://github.com/tanishjain09/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Heap (Priority Queue)
@@ -511,6 +513,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tanishjain09/LeetCode/tree/master/0200-number-of-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/tanishjain09/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/tanishjain09/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2092-find-all-people-with-secret](https://github.com/tanishjain09/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Enumeration
@@ -522,6 +525,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/tanishjain09/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanishjain09/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/tanishjain09/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/tanishjain09/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2092-find-all-people-with-secret](https://github.com/tanishjain09/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Shortest Path
