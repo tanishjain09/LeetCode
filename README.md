@@ -45,6 +45,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tanishjain09/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tanishjain09/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0733-flood-fill](https://github.com/tanishjain09/LeetCode/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/tanishjain09/LeetCode/tree/master/0740-delete-and-earn) |
 | [0940-fruit-into-baskets](https://github.com/tanishjain09/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanishjain09/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -93,6 +94,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tanishjain09/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/tanishjain09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tanishjain09/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0740-delete-and-earn](https://github.com/tanishjain09/LeetCode/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanishjain09/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/tanishjain09/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -142,6 +144,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0621-task-scheduler](https://github.com/tanishjain09/LeetCode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanishjain09/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0740-delete-and-earn](https://github.com/tanishjain09/LeetCode/tree/master/0740-delete-and-earn) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/tanishjain09/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/tanishjain09/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
