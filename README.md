@@ -52,6 +52,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanishjain09/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/tanishjain09/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/tanishjain09/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/tanishjain09/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/tanishjain09/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/tanishjain09/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -100,6 +101,7 @@
 | [0740-delete-and-earn](https://github.com/tanishjain09/LeetCode/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanishjain09/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/tanishjain09/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/tanishjain09/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/tanishjain09/LeetCode/tree/master/1129-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/tanishjain09/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -371,6 +373,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/tanishjain09/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/tanishjain09/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tanishjain09/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/tanishjain09/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1129-longest-string-chain](https://github.com/tanishjain09/LeetCode/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/tanishjain09/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/tanishjain09/LeetCode/tree/master/1297-maximum-number-of-balloons) |
