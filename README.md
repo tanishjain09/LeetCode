@@ -43,6 +43,7 @@
 | [0436-find-right-interval](https://github.com/tanishjain09/LeetCode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/tanishjain09/LeetCode/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/tanishjain09/LeetCode/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/tanishjain09/LeetCode/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/tanishjain09/LeetCode/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tanishjain09/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -261,6 +262,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanishjain09/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/tanishjain09/LeetCode/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/tanishjain09/LeetCode/tree/master/0441-arranging-coins) |
+| [0493-reverse-pairs](https://github.com/tanishjain09/LeetCode/tree/master/0493-reverse-pairs) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanishjain09/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0754-reach-a-number](https://github.com/tanishjain09/LeetCode/tree/master/0754-reach-a-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tanishjain09/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -325,6 +327,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tanishjain09/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tanishjain09/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0493-reverse-pairs](https://github.com/tanishjain09/LeetCode/tree/master/0493-reverse-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -458,6 +461,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tanishjain09/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/tanishjain09/LeetCode/tree/master/0493-reverse-pairs) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -513,10 +517,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/tanishjain09/LeetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tanishjain09/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/tanishjain09/LeetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tanishjain09/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Interactive
 |  |
@@ -570,4 +576,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/tanishjain09/LeetCode/tree/master/2396-strictly-palindromic-number) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/tanishjain09/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
