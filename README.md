@@ -71,6 +71,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tanishjain09/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/tanishjain09/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2227-sum-of-subarray-ranges](https://github.com/tanishjain09/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/tanishjain09/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [3531-count-covered-buildings](https://github.com/tanishjain09/LeetCode/tree/master/3531-count-covered-buildings) |
 ## Dynamic Programming
 |  |
@@ -393,6 +394,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/tanishjain09/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tanishjain09/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tanishjain09/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/tanishjain09/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Greedy
 |  |
 | ------- |
