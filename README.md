@@ -75,6 +75,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/tanishjain09/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2227-sum-of-subarray-ranges](https://github.com/tanishjain09/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/tanishjain09/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2848-points-that-intersect-with-cars](https://github.com/tanishjain09/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [3531-count-covered-buildings](https://github.com/tanishjain09/LeetCode/tree/master/3531-count-covered-buildings) |
 ## Dynamic Programming
 |  |
@@ -171,6 +172,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/tanishjain09/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/tanishjain09/LeetCode/tree/master/1129-longest-string-chain) |
 | [1297-maximum-number-of-balloons](https://github.com/tanishjain09/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [2848-points-that-intersect-with-cars](https://github.com/tanishjain09/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [3531-count-covered-buildings](https://github.com/tanishjain09/LeetCode/tree/master/3531-count-covered-buildings) |
 ## Linked List
 |  |
@@ -360,6 +362,7 @@
 | [1094-car-pooling](https://github.com/tanishjain09/LeetCode/tree/master/1094-car-pooling) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tanishjain09/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1854-maximum-population-year](https://github.com/tanishjain09/LeetCode/tree/master/1854-maximum-population-year) |
+| [2848-points-that-intersect-with-cars](https://github.com/tanishjain09/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 ## Counting
 |  |
 | ------- |
