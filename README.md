@@ -73,6 +73,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tanishjain09/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1854-maximum-population-year](https://github.com/tanishjain09/LeetCode/tree/master/1854-maximum-population-year) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/tanishjain09/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2054-two-best-non-overlapping-events](https://github.com/tanishjain09/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2227-sum-of-subarray-ranges](https://github.com/tanishjain09/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/tanishjain09/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2848-points-that-intersect-with-cars](https://github.com/tanishjain09/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
@@ -121,6 +122,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/tanishjain09/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tanishjain09/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tanishjain09/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2054-two-best-non-overlapping-events](https://github.com/tanishjain09/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 ## Stack
 |  |
 | ------- |
@@ -285,6 +287,7 @@
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/tanishjain09/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1631-path-with-minimum-effort](https://github.com/tanishjain09/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/tanishjain09/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2054-two-best-non-overlapping-events](https://github.com/tanishjain09/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 ## Binary Tree
 |  |
 | ------- |
@@ -440,6 +443,7 @@
 | [1129-longest-string-chain](https://github.com/tanishjain09/LeetCode/tree/master/1129-longest-string-chain) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/tanishjain09/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tanishjain09/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2054-two-best-non-overlapping-events](https://github.com/tanishjain09/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/tanishjain09/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [3531-count-covered-buildings](https://github.com/tanishjain09/LeetCode/tree/master/3531-count-covered-buildings) |
 ## Breadth-First Search
@@ -474,6 +478,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/tanishjain09/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1094-car-pooling](https://github.com/tanishjain09/LeetCode/tree/master/1094-car-pooling) |
 | [1631-path-with-minimum-effort](https://github.com/tanishjain09/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2054-two-best-non-overlapping-events](https://github.com/tanishjain09/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 ## Quickselect
 |  |
 | ------- |
