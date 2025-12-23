@@ -49,6 +49,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tanishjain09/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tanishjain09/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0721-accounts-merge](https://github.com/tanishjain09/LeetCode/tree/master/0721-accounts-merge) |
+| [0729-my-calendar-i](https://github.com/tanishjain09/LeetCode/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/tanishjain09/LeetCode/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/tanishjain09/LeetCode/tree/master/0740-delete-and-earn) |
 | [0940-fruit-into-baskets](https://github.com/tanishjain09/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -189,6 +190,7 @@
 | [0295-find-median-from-data-stream](https://github.com/tanishjain09/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/tanishjain09/LeetCode/tree/master/0355-design-twitter) |
+| [0729-my-calendar-i](https://github.com/tanishjain09/LeetCode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tanishjain09/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1472-design-browser-history](https://github.com/tanishjain09/LeetCode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
@@ -264,6 +266,7 @@
 | [0441-arranging-coins](https://github.com/tanishjain09/LeetCode/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/tanishjain09/LeetCode/tree/master/0493-reverse-pairs) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanishjain09/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0729-my-calendar-i](https://github.com/tanishjain09/LeetCode/tree/master/0729-my-calendar-i) |
 | [0754-reach-a-number](https://github.com/tanishjain09/LeetCode/tree/master/0754-reach-a-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tanishjain09/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tanishjain09/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -524,6 +527,7 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/tanishjain09/LeetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tanishjain09/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0729-my-calendar-i](https://github.com/tanishjain09/LeetCode/tree/master/0729-my-calendar-i) |
 ## Interactive
 |  |
 | ------- |
@@ -580,4 +584,5 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/tanishjain09/LeetCode/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/tanishjain09/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
