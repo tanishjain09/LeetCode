@@ -69,6 +69,7 @@
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/tanishjain09/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1631-path-with-minimum-effort](https://github.com/tanishjain09/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tanishjain09/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1854-maximum-population-year](https://github.com/tanishjain09/LeetCode/tree/master/1854-maximum-population-year) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/tanishjain09/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2227-sum-of-subarray-ranges](https://github.com/tanishjain09/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/tanishjain09/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -353,6 +354,7 @@
 | [0731-my-calendar-ii](https://github.com/tanishjain09/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/tanishjain09/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tanishjain09/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1854-maximum-population-year](https://github.com/tanishjain09/LeetCode/tree/master/1854-maximum-population-year) |
 ## Counting
 |  |
 | ------- |
@@ -360,6 +362,7 @@
 | [0621-task-scheduler](https://github.com/tanishjain09/LeetCode/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/tanishjain09/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1297-maximum-number-of-balloons](https://github.com/tanishjain09/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1854-maximum-population-year](https://github.com/tanishjain09/LeetCode/tree/master/1854-maximum-population-year) |
 ## String
 |  |
 | ------- |
