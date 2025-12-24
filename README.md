@@ -138,6 +138,7 @@
 | [0445-add-two-numbers-ii](https://github.com/tanishjain09/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/tanishjain09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/tanishjain09/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/tanishjain09/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0943-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tanishjain09/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/tanishjain09/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/tanishjain09/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0943-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/tanishjain09/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -219,6 +221,7 @@
 | [0729-my-calendar-i](https://github.com/tanishjain09/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tanishjain09/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tanishjain09/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/tanishjain09/LeetCode/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/tanishjain09/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/tanishjain09/LeetCode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
@@ -517,6 +520,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/tanishjain09/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tanishjain09/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/tanishjain09/LeetCode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/tanishjain09/LeetCode/tree/master/1472-design-browser-history) |
 ## Backtracking
 |  |
