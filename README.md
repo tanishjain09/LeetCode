@@ -61,6 +61,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/tanishjain09/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/tanishjain09/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/tanishjain09/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1019-next-greater-node-in-linked-list](https://github.com/tanishjain09/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1034-subarrays-with-k-different-integers](https://github.com/tanishjain09/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tanishjain09/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/tanishjain09/LeetCode/tree/master/1094-car-pooling) |
@@ -137,6 +138,7 @@
 | [0739-daily-temperatures](https://github.com/tanishjain09/LeetCode/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tanishjain09/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/tanishjain09/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/tanishjain09/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/tanishjain09/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/tanishjain09/LeetCode/tree/master/1472-design-browser-history) |
@@ -148,6 +150,7 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/tanishjain09/LeetCode/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1019-next-greater-node-in-linked-list](https://github.com/tanishjain09/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanishjain09/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2227-sum-of-subarray-ranges](https://github.com/tanishjain09/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Hash Table
@@ -194,6 +197,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishjain09/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0355-design-twitter](https://github.com/tanishjain09/LeetCode/tree/master/0355-design-twitter) |
 | [0445-add-two-numbers-ii](https://github.com/tanishjain09/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/tanishjain09/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanishjain09/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/tanishjain09/LeetCode/tree/master/1472-design-browser-history) |
 | [1484-linked-list-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
