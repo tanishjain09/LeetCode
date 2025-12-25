@@ -43,6 +43,7 @@
 | [0436-find-right-interval](https://github.com/tanishjain09/LeetCode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/tanishjain09/LeetCode/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/tanishjain09/LeetCode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/tanishjain09/LeetCode/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/tanishjain09/LeetCode/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/tanishjain09/LeetCode/tree/master/0621-task-scheduler) |
@@ -145,6 +146,7 @@
 | [0316-remove-duplicate-letters](https://github.com/tanishjain09/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0445-add-two-numbers-ii](https://github.com/tanishjain09/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/tanishjain09/LeetCode/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/tanishjain09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/tanishjain09/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/tanishjain09/LeetCode/tree/master/0901-online-stock-span) |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/tanishjain09/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/tanishjain09/LeetCode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/tanishjain09/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/tanishjain09/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -309,6 +312,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanishjain09/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/tanishjain09/LeetCode/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/tanishjain09/LeetCode/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/tanishjain09/LeetCode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/tanishjain09/LeetCode/tree/master/0493-reverse-pairs) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanishjain09/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0729-my-calendar-i](https://github.com/tanishjain09/LeetCode/tree/master/0729-my-calendar-i) |
@@ -657,6 +661,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/tanishjain09/LeetCode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/tanishjain09/LeetCode/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/tanishjain09/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tanishjain09/LeetCode/tree/master/0731-my-calendar-ii) |
