@@ -203,6 +203,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tanishjain09/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanishjain09/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0460-lfu-cache](https://github.com/tanishjain09/LeetCode/tree/master/0460-lfu-cache) |
 | [0621-task-scheduler](https://github.com/tanishjain09/LeetCode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanishjain09/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/tanishjain09/LeetCode/tree/master/0721-accounts-merge) |
@@ -227,6 +228,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishjain09/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0355-design-twitter](https://github.com/tanishjain09/LeetCode/tree/master/0355-design-twitter) |
 | [0445-add-two-numbers-ii](https://github.com/tanishjain09/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/tanishjain09/LeetCode/tree/master/0460-lfu-cache) |
 | [1019-next-greater-node-in-linked-list](https://github.com/tanishjain09/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanishjain09/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/tanishjain09/LeetCode/tree/master/1472-design-browser-history) |
@@ -242,6 +244,7 @@
 | [0295-find-median-from-data-stream](https://github.com/tanishjain09/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/tanishjain09/LeetCode/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/tanishjain09/LeetCode/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/tanishjain09/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tanishjain09/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tanishjain09/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -253,6 +256,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/tanishjain09/LeetCode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/tanishjain09/LeetCode/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/tanishjain09/LeetCode/tree/master/1472-design-browser-history) |
 ## Tree
 |  |
