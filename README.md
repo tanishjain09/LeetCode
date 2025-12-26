@@ -150,6 +150,7 @@
 | [0456-132-pattern](https://github.com/tanishjain09/LeetCode/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/tanishjain09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/tanishjain09/LeetCode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/tanishjain09/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0895-maximum-frequency-stack](https://github.com/tanishjain09/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/tanishjain09/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -369,6 +370,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanishjain09/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/tanishjain09/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanishjain09/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0844-backspace-string-compare](https://github.com/tanishjain09/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/tanishjain09/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1129-longest-string-chain](https://github.com/tanishjain09/LeetCode/tree/master/1129-longest-string-chain) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/tanishjain09/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -447,6 +449,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/tanishjain09/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/tanishjain09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/tanishjain09/LeetCode/tree/master/0721-accounts-merge) |
+| [0844-backspace-string-compare](https://github.com/tanishjain09/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanishjain09/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/tanishjain09/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tanishjain09/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -661,6 +664,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/tanishjain09/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/tanishjain09/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1094-car-pooling](https://github.com/tanishjain09/LeetCode/tree/master/1094-car-pooling) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/tanishjain09/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
