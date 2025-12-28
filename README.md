@@ -77,6 +77,7 @@
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tanishjain09/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1472-design-browser-history](https://github.com/tanishjain09/LeetCode/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanishjain09/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanishjain09/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1504-count-submatrices-with-all-ones](https://github.com/tanishjain09/LeetCode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tanishjain09/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/tanishjain09/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -139,6 +140,7 @@
 | [1250-longest-common-subsequence](https://github.com/tanishjain09/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/tanishjain09/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tanishjain09/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanishjain09/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1504-count-submatrices-with-all-ones](https://github.com/tanishjain09/LeetCode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tanishjain09/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2054-two-best-non-overlapping-events](https://github.com/tanishjain09/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -417,6 +419,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/tanishjain09/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/tanishjain09/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tanishjain09/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanishjain09/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tanishjain09/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
