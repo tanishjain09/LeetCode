@@ -1,5 +1,6 @@
 class Solution {
     HashMap<String, List<Character>> map = new HashMap<>();
+    HashSet<String> deadStrings = new HashSet<>();
 
     public boolean pyramidTransition(String bottom, List<String> allowed) {
 
@@ -13,16 +14,16 @@ class Solution {
     }
 
     private boolean dfs(String row) {
-        if (row.length() == 1)
-            return true;
-
-        List<String> nextRow = new ArrayList<>();
+        if (row.length() == 1) return true;
+        if(deadStrings.contains(row)) return false;
+         List<String> nextRow = new ArrayList<>();
         buildNextRows(row, 0, new StringBuilder(), nextRow);
 
         for (String next : nextRow) {
             if (dfs(next))
                 return true;
         }
+        deadStrings.add(row);
         return false;
     }
 
