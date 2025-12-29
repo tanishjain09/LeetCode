@@ -59,6 +59,7 @@
 | [0739-daily-temperatures](https://github.com/tanishjain09/LeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/tanishjain09/LeetCode/tree/master/0740-delete-and-earn) |
 | [0845-longest-mountain-in-array](https://github.com/tanishjain09/LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanishjain09/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0907-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-fruit-into-baskets](https://github.com/tanishjain09/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -346,6 +347,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/tanishjain09/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tanishjain09/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tanishjain09/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanishjain09/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/tanishjain09/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1631-path-with-minimum-effort](https://github.com/tanishjain09/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/tanishjain09/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -422,6 +424,7 @@
 | [0567-permutation-in-string](https://github.com/tanishjain09/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/tanishjain09/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/tanishjain09/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanishjain09/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/tanishjain09/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/tanishjain09/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/tanishjain09/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -437,6 +440,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/tanishjain09/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/tanishjain09/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/tanishjain09/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanishjain09/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/tanishjain09/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1094-car-pooling](https://github.com/tanishjain09/LeetCode/tree/master/1094-car-pooling) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tanishjain09/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -571,6 +575,7 @@
 | [0743-network-delay-time](https://github.com/tanishjain09/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanishjain09/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tanishjain09/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanishjain09/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1094-car-pooling](https://github.com/tanishjain09/LeetCode/tree/master/1094-car-pooling) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanishjain09/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/tanishjain09/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -726,9 +731,11 @@
 ## Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanishjain09/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanishjain09/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanishjain09/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanishjain09/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
