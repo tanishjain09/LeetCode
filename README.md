@@ -215,6 +215,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanishjain09/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/tanishjain09/LeetCode/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/tanishjain09/LeetCode/tree/master/0740-delete-and-earn) |
+| [0756-pyramid-transition-matrix](https://github.com/tanishjain09/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0895-maximum-frequency-stack](https://github.com/tanishjain09/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/tanishjain09/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -396,6 +397,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/tanishjain09/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/tanishjain09/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tanishjain09/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0756-pyramid-transition-matrix](https://github.com/tanishjain09/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -471,6 +473,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/tanishjain09/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/tanishjain09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/tanishjain09/LeetCode/tree/master/0721-accounts-merge) |
+| [0756-pyramid-transition-matrix](https://github.com/tanishjain09/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0844-backspace-string-compare](https://github.com/tanishjain09/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanishjain09/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/tanishjain09/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -597,6 +600,7 @@
 | [0079-word-search](https://github.com/tanishjain09/LeetCode/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/tanishjain09/LeetCode/tree/master/0282-expression-add-operators) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tanishjain09/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0756-pyramid-transition-matrix](https://github.com/tanishjain09/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 ## Iterator
 |  |
 | ------- |
