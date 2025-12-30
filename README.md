@@ -227,6 +227,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/tanishjain09/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/tanishjain09/LeetCode/tree/master/1129-longest-string-chain) |
 | [1297-maximum-number-of-balloons](https://github.com/tanishjain09/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanishjain09/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2402-meeting-rooms-iii](https://github.com/tanishjain09/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2848-points-that-intersect-with-cars](https://github.com/tanishjain09/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [3531-count-covered-buildings](https://github.com/tanishjain09/LeetCode/tree/master/3531-count-covered-buildings) |
@@ -433,6 +434,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tanishjain09/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanishjain09/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tanishjain09/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanishjain09/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tanishjain09/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Prefix Sum
 |  |
@@ -454,6 +456,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/tanishjain09/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1297-maximum-number-of-balloons](https://github.com/tanishjain09/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1854-maximum-population-year](https://github.com/tanishjain09/LeetCode/tree/master/1854-maximum-population-year) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanishjain09/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
 | ------- |
@@ -499,6 +502,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tanishjain09/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tanishjain09/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tanishjain09/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanishjain09/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/tanishjain09/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Greedy
 |  |
