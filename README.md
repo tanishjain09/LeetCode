@@ -89,6 +89,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tanishjain09/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1854-maximum-population-year](https://github.com/tanishjain09/LeetCode/tree/master/1854-maximum-population-year) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/tanishjain09/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/tanishjain09/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tanishjain09/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/tanishjain09/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2227-sum-of-subarray-ranges](https://github.com/tanishjain09/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
@@ -324,6 +325,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/tanishjain09/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/tanishjain09/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/tanishjain09/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/tanishjain09/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Binary Search Tree
 |  |
@@ -357,6 +359,7 @@
 | [1631-path-with-minimum-effort](https://github.com/tanishjain09/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tanishjain09/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/tanishjain09/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/tanishjain09/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/tanishjain09/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 ## Binary Tree
 |  |
@@ -574,6 +577,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/tanishjain09/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/tanishjain09/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/tanishjain09/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/tanishjain09/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/tanishjain09/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Heap (Priority Queue)
 |  |
@@ -658,6 +662,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/tanishjain09/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1504-count-submatrices-with-all-ones](https://github.com/tanishjain09/LeetCode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/tanishjain09/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/tanishjain09/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -681,6 +686,7 @@
 | [0721-accounts-merge](https://github.com/tanishjain09/LeetCode/tree/master/0721-accounts-merge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/tanishjain09/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/tanishjain09/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/tanishjain09/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/tanishjain09/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Enumeration
 |  |
