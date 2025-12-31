@@ -92,6 +92,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tanishjain09/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1854-maximum-population-year](https://github.com/tanishjain09/LeetCode/tree/master/1854-maximum-population-year) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/tanishjain09/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/tanishjain09/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tanishjain09/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tanishjain09/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/tanishjain09/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -542,6 +543,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tanishjain09/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tanishjain09/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tanishjain09/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/tanishjain09/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tanishjain09/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/tanishjain09/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sorting
@@ -613,6 +615,7 @@
 | [1094-car-pooling](https://github.com/tanishjain09/LeetCode/tree/master/1094-car-pooling) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanishjain09/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/tanishjain09/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/tanishjain09/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2054-two-best-non-overlapping-events](https://github.com/tanishjain09/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/tanishjain09/LeetCode/tree/master/2402-meeting-rooms-iii) |
 ## Quickselect
