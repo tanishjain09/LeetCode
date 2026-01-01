@@ -15,6 +15,7 @@
 | [0057-insert-interval](https://github.com/tanishjain09/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/tanishjain09/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tanishjain09/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/tanishjain09/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/tanishjain09/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tanishjain09/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanishjain09/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -661,6 +662,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/tanishjain09/LeetCode/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/tanishjain09/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/tanishjain09/LeetCode/tree/master/0066-plus-one) |
 | [0282-expression-add-operators](https://github.com/tanishjain09/LeetCode/tree/master/0282-expression-add-operators) |
 | [0441-arranging-coins](https://github.com/tanishjain09/LeetCode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/tanishjain09/LeetCode/tree/master/0445-add-two-numbers-ii) |
