@@ -311,6 +311,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/tanishjain09/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -335,6 +336,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/tanishjain09/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/tanishjain09/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tanishjain09/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -397,6 +399,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/tanishjain09/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Two Pointers
 |  |
