@@ -307,6 +307,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanishjain09/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tanishjain09/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/tanishjain09/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tanishjain09/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -334,6 +335,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanishjain09/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tanishjain09/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/tanishjain09/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tanishjain09/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanishjain09/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -401,6 +403,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanishjain09/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tanishjain09/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/tanishjain09/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tanishjain09/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -518,6 +521,7 @@
 | [0115-distinct-subsequences](https://github.com/tanishjain09/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/tanishjain09/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/tanishjain09/LeetCode/tree/master/0139-word-break) |
+| [0257-binary-tree-paths](https://github.com/tanishjain09/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/tanishjain09/LeetCode/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/tanishjain09/LeetCode/tree/master/0316-remove-duplicate-letters) |
@@ -676,6 +680,7 @@
 | [0078-subsets](https://github.com/tanishjain09/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tanishjain09/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/tanishjain09/LeetCode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/tanishjain09/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/tanishjain09/LeetCode/tree/master/0282-expression-add-operators) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tanishjain09/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/tanishjain09/LeetCode/tree/master/0756-pyramid-transition-matrix) |
