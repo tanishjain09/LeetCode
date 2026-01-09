@@ -14,20 +14,21 @@
  * }
  */
 class Solution {
+    TreeNode node = null;
     int deepest = 0;
-    TreeNode res = null;
     public TreeNode subtreeWithAllDeepest(TreeNode root) {
-        dfs(root, 0);
-        return res;
+        helper(root, 0);
+        return node;
     }
-    public int dfs(TreeNode root, int level){
+    private int helper(TreeNode root, int level){
         if(root == null) return level;
 
-        int leftLevel = dfs(root.left, level+1);
-        int rightLevel = dfs(root.right, level+1);
+        int leftLevel = helper(root.left, level+1);
+        int rightLevel = helper(root.right, level+1);
+
         int curr = Math.max(leftLevel, rightLevel);
-        deepest = Math.max(deepest, curr);
-        if(leftLevel == deepest && rightLevel == deepest) res = root;
+        deepest =  Math.max(deepest, curr);
+        if(leftLevel == deepest && rightLevel == deepest) node = root;
         return curr;
     }
 }
