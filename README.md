@@ -312,6 +312,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tanishjain09/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0572-subtree-of-another-tree](https://github.com/tanishjain09/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanishjain09/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0687-longest-univalue-path](https://github.com/tanishjain09/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tanishjain09/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -340,6 +341,7 @@
 | [0257-binary-tree-paths](https://github.com/tanishjain09/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tanishjain09/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0572-subtree-of-another-tree](https://github.com/tanishjain09/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanishjain09/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0687-longest-univalue-path](https://github.com/tanishjain09/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0721-accounts-merge](https://github.com/tanishjain09/LeetCode/tree/master/0721-accounts-merge) |
@@ -410,6 +412,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tanishjain09/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0572-subtree-of-another-tree](https://github.com/tanishjain09/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanishjain09/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0687-longest-univalue-path](https://github.com/tanishjain09/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tanishjain09/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -825,4 +828,12 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/tanishjain09/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/tanishjain09/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/tanishjain09/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
