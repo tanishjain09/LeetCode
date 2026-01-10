@@ -80,6 +80,7 @@
 | [1046-last-stone-weight](https://github.com/tanishjain09/LeetCode/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tanishjain09/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/tanishjain09/LeetCode/tree/master/1094-car-pooling) |
+| [1110-delete-nodes-and-return-forest](https://github.com/tanishjain09/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1129-longest-string-chain](https://github.com/tanishjain09/LeetCode/tree/master/1129-longest-string-chain) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/tanishjain09/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1390-four-divisors](https://github.com/tanishjain09/LeetCode/tree/master/1390-four-divisors) |
@@ -246,6 +247,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/tanishjain09/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/tanishjain09/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1110-delete-nodes-and-return-forest](https://github.com/tanishjain09/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1129-longest-string-chain](https://github.com/tanishjain09/LeetCode/tree/master/1129-longest-string-chain) |
 | [1297-maximum-number-of-balloons](https://github.com/tanishjain09/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/tanishjain09/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -325,6 +327,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tanishjain09/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/tanishjain09/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
@@ -355,6 +358,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tanishjain09/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/tanishjain09/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/tanishjain09/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -426,6 +430,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tanishjain09/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/tanishjain09/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Two Pointers
