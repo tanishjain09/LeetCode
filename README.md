@@ -368,6 +368,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/tanishjain09/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tanishjain09/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1971-find-if-path-exists-in-graph](https://github.com/tanishjain09/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/tanishjain09/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Binary Search Tree
 |  |
@@ -655,6 +656,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/tanishjain09/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/tanishjain09/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tanishjain09/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1971-find-if-path-exists-in-graph](https://github.com/tanishjain09/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/tanishjain09/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Heap (Priority Queue)
 |  |
@@ -777,6 +779,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/tanishjain09/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/tanishjain09/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tanishjain09/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1971-find-if-path-exists-in-graph](https://github.com/tanishjain09/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/tanishjain09/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Enumeration
 |  |
@@ -791,6 +794,7 @@
 | [0841-keys-and-rooms](https://github.com/tanishjain09/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/tanishjain09/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/tanishjain09/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1971-find-if-path-exists-in-graph](https://github.com/tanishjain09/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/tanishjain09/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Shortest Path
 |  |
