@@ -145,6 +145,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tanishjain09/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/tanishjain09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tanishjain09/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tanishjain09/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/tanishjain09/LeetCode/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanishjain09/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/tanishjain09/LeetCode/tree/master/0845-longest-mountain-in-array) |
@@ -545,6 +546,7 @@
 | [0567-permutation-in-string](https://github.com/tanishjain09/LeetCode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/tanishjain09/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/tanishjain09/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tanishjain09/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/tanishjain09/LeetCode/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/tanishjain09/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0844-backspace-string-compare](https://github.com/tanishjain09/LeetCode/tree/master/0844-backspace-string-compare) |
