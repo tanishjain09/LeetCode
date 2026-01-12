@@ -87,6 +87,7 @@
 | [1094-car-pooling](https://github.com/tanishjain09/LeetCode/tree/master/1094-car-pooling) |
 | [1110-delete-nodes-and-return-forest](https://github.com/tanishjain09/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1129-longest-string-chain](https://github.com/tanishjain09/LeetCode/tree/master/1129-longest-string-chain) |
+| [1266-minimum-time-visiting-all-points](https://github.com/tanishjain09/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/tanishjain09/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1390-four-divisors](https://github.com/tanishjain09/LeetCode/tree/master/1390-four-divisors) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanishjain09/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -758,6 +759,7 @@
 | [0754-reach-a-number](https://github.com/tanishjain09/LeetCode/tree/master/0754-reach-a-number) |
 | [0973-k-closest-points-to-origin](https://github.com/tanishjain09/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/tanishjain09/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/tanishjain09/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanishjain09/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1390-four-divisors](https://github.com/tanishjain09/LeetCode/tree/master/1390-four-divisors) |
 | [1925-count-square-sum-triples](https://github.com/tanishjain09/LeetCode/tree/master/1925-count-square-sum-triples) |
@@ -886,6 +888,7 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/tanishjain09/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1266-minimum-time-visiting-all-points](https://github.com/tanishjain09/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 ## String Matching
 |  |
 | ------- |
