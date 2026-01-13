@@ -116,6 +116,7 @@
 | [2848-points-that-intersect-with-cars](https://github.com/tanishjain09/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tanishjain09/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/tanishjain09/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3453-separate-squares-i](https://github.com/tanishjain09/LeetCode/tree/master/3453-separate-squares-i) |
 | [3531-count-covered-buildings](https://github.com/tanishjain09/LeetCode/tree/master/3531-count-covered-buildings) |
 ## Dynamic Programming
 |  |
@@ -422,6 +423,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/tanishjain09/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tanishjain09/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/tanishjain09/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
+| [3453-separate-squares-i](https://github.com/tanishjain09/LeetCode/tree/master/3453-separate-squares-i) |
 ## Binary Tree
 |  |
 | ------- |
