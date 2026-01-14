@@ -41,6 +41,7 @@
 | [0260-single-number-iii](https://github.com/tanishjain09/LeetCode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/tanishjain09/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/tanishjain09/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/tanishjain09/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/tanishjain09/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tanishjain09/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanishjain09/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -292,6 +293,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/tanishjain09/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/tanishjain09/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0307-range-sum-query-mutable](https://github.com/tanishjain09/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/tanishjain09/LeetCode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/tanishjain09/LeetCode/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/tanishjain09/LeetCode/tree/master/0729-my-calendar-i) |
@@ -501,6 +503,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanishjain09/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanishjain09/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/tanishjain09/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/tanishjain09/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tanishjain09/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/tanishjain09/LeetCode/tree/master/0493-reverse-pairs) |
@@ -788,11 +791,13 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/tanishjain09/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/tanishjain09/LeetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tanishjain09/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/tanishjain09/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/tanishjain09/LeetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tanishjain09/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/tanishjain09/LeetCode/tree/master/0729-my-calendar-i) |
