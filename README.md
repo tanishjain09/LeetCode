@@ -116,6 +116,7 @@
 | [2446-determine-if-two-events-have-conflict](https://github.com/tanishjain09/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2848-points-that-intersect-with-cars](https://github.com/tanishjain09/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/tanishjain09/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/tanishjain09/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tanishjain09/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/tanishjain09/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3453-separate-squares-i](https://github.com/tanishjain09/LeetCode/tree/master/3453-separate-squares-i) |
@@ -771,6 +772,7 @@
 | [1390-four-divisors](https://github.com/tanishjain09/LeetCode/tree/master/1390-four-divisors) |
 | [1925-count-square-sum-triples](https://github.com/tanishjain09/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2396-strictly-palindromic-number](https://github.com/tanishjain09/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/tanishjain09/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Combinatorics
 |  |
 | ------- |
@@ -898,6 +900,7 @@
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/tanishjain09/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/tanishjain09/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/tanishjain09/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## String Matching
 |  |
 | ------- |
