@@ -174,6 +174,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/tanishjain09/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/tanishjain09/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/tanishjain09/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/tanishjain09/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tanishjain09/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/tanishjain09/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanishjain09/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
