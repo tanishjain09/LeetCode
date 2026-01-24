@@ -108,6 +108,7 @@
 | [1834-single-threaded-cpu](https://github.com/tanishjain09/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [1854-maximum-population-year](https://github.com/tanishjain09/LeetCode/tree/master/1854-maximum-population-year) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/tanishjain09/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/tanishjain09/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/tanishjain09/LeetCode/tree/master/1895-largest-magic-square) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/tanishjain09/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tanishjain09/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -494,6 +495,7 @@
 | [0845-longest-mountain-in-array](https://github.com/tanishjain09/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1129-longest-string-chain](https://github.com/tanishjain09/LeetCode/tree/master/1129-longest-string-chain) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/tanishjain09/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/tanishjain09/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2396-strictly-palindromic-number](https://github.com/tanishjain09/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
@@ -636,6 +638,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tanishjain09/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tanishjain09/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tanishjain09/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/tanishjain09/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/tanishjain09/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tanishjain09/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/tanishjain09/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -665,6 +668,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/tanishjain09/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tanishjain09/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1834-single-threaded-cpu](https://github.com/tanishjain09/LeetCode/tree/master/1834-single-threaded-cpu) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/tanishjain09/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tanishjain09/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/tanishjain09/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/tanishjain09/LeetCode/tree/master/2092-find-all-people-with-secret) |
