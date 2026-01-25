@@ -95,6 +95,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanishjain09/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tanishjain09/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/tanishjain09/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1463-cherry-pickup-ii](https://github.com/tanishjain09/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1472-design-browser-history](https://github.com/tanishjain09/LeetCode/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanishjain09/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanishjain09/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -178,6 +179,7 @@
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/tanishjain09/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tanishjain09/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/tanishjain09/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1463-cherry-pickup-ii](https://github.com/tanishjain09/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanishjain09/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1504-count-submatrices-with-all-ones](https://github.com/tanishjain09/LeetCode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tanishjain09/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -805,6 +807,7 @@
 | [1020-number-of-enclaves](https://github.com/tanishjain09/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tanishjain09/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/tanishjain09/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1463-cherry-pickup-ii](https://github.com/tanishjain09/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1504-count-submatrices-with-all-ones](https://github.com/tanishjain09/LeetCode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/tanishjain09/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1895-largest-magic-square](https://github.com/tanishjain09/LeetCode/tree/master/1895-largest-magic-square) |
