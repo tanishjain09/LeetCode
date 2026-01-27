@@ -67,6 +67,7 @@
 | [0733-flood-fill](https://github.com/tanishjain09/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/tanishjain09/LeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/tanishjain09/LeetCode/tree/master/0740-delete-and-earn) |
+| [0752-open-the-lock](https://github.com/tanishjain09/LeetCode/tree/master/0752-open-the-lock) |
 | [0845-longest-mountain-in-array](https://github.com/tanishjain09/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanishjain09/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0907-sum-of-subarray-minimums](https://github.com/tanishjain09/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -264,6 +265,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanishjain09/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/tanishjain09/LeetCode/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/tanishjain09/LeetCode/tree/master/0740-delete-and-earn) |
+| [0752-open-the-lock](https://github.com/tanishjain09/LeetCode/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/tanishjain09/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tanishjain09/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -613,6 +615,7 @@
 | [0680-valid-palindrome-ii](https://github.com/tanishjain09/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tanishjain09/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/tanishjain09/LeetCode/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/tanishjain09/LeetCode/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/tanishjain09/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0844-backspace-string-compare](https://github.com/tanishjain09/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanishjain09/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -704,6 +707,7 @@
 | [0721-accounts-merge](https://github.com/tanishjain09/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/tanishjain09/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/tanishjain09/LeetCode/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/tanishjain09/LeetCode/tree/master/0752-open-the-lock) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanishjain09/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/tanishjain09/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tanishjain09/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
