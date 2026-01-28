@@ -131,6 +131,7 @@
 | [3453-separate-squares-i](https://github.com/tanishjain09/LeetCode/tree/master/3453-separate-squares-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/tanishjain09/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/tanishjain09/LeetCode/tree/master/3531-count-covered-buildings) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/tanishjain09/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -192,6 +193,7 @@
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/tanishjain09/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tanishjain09/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/tanishjain09/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/tanishjain09/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Stack
 |  |
 | ------- |
@@ -828,6 +830,7 @@
 | [1631-path-with-minimum-effort](https://github.com/tanishjain09/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1895-largest-magic-square](https://github.com/tanishjain09/LeetCode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tanishjain09/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/tanishjain09/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Binary Indexed Tree
 |  |
 | ------- |
