@@ -82,6 +82,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/tanishjain09/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/tanishjain09/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/tanishjain09/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0986-interval-list-intersections](https://github.com/tanishjain09/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1019-next-greater-node-in-linked-list](https://github.com/tanishjain09/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/tanishjain09/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1034-subarrays-with-k-different-integers](https://github.com/tanishjain09/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -508,6 +509,7 @@
 | [0680-valid-palindrome-ii](https://github.com/tanishjain09/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/tanishjain09/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/tanishjain09/LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [0986-interval-list-intersections](https://github.com/tanishjain09/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1129-longest-string-chain](https://github.com/tanishjain09/LeetCode/tree/master/1129-longest-string-chain) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/tanishjain09/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tanishjain09/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -959,4 +961,8 @@
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tanishjain09/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/tanishjain09/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/tanishjain09/LeetCode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
