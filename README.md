@@ -127,6 +127,7 @@
 | [2848-points-that-intersect-with-cars](https://github.com/tanishjain09/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/tanishjain09/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tanishjain09/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/tanishjain09/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/tanishjain09/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tanishjain09/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/tanishjain09/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -195,6 +196,7 @@
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/tanishjain09/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tanishjain09/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/tanishjain09/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/tanishjain09/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/tanishjain09/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Stack
 |  |
@@ -640,6 +642,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanishjain09/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/tanishjain09/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tanishjain09/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/tanishjain09/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -888,6 +891,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanishjain09/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/tanishjain09/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tanishjain09/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/tanishjain09/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/tanishjain09/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Memoization
 |  |
@@ -903,6 +907,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/tanishjain09/LeetCode/tree/master/0139-word-break) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/tanishjain09/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -960,6 +965,7 @@
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tanishjain09/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/tanishjain09/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/tanishjain09/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Sweep Line
 |  |
