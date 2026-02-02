@@ -296,6 +296,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tanishjain09/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/tanishjain09/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/tanishjain09/LeetCode/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tanishjain09/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/tanishjain09/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
@@ -935,6 +936,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/tanishjain09/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/tanishjain09/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Queue
 |  |
 | ------- |
