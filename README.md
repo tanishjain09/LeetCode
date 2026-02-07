@@ -36,6 +36,7 @@
 | [0198-house-robber](https://github.com/tanishjain09/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/tanishjain09/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanishjain09/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/tanishjain09/LeetCode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/tanishjain09/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishjain09/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/tanishjain09/LeetCode/tree/master/0260-single-number-iii) |
@@ -608,6 +609,7 @@
 | [0115-distinct-subsequences](https://github.com/tanishjain09/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/tanishjain09/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/tanishjain09/LeetCode/tree/master/0139-word-break) |
+| [0212-word-search-ii](https://github.com/tanishjain09/LeetCode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/tanishjain09/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/tanishjain09/LeetCode/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tanishjain09/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -790,6 +792,7 @@
 | [0078-subsets](https://github.com/tanishjain09/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tanishjain09/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/tanishjain09/LeetCode/tree/master/0113-path-sum-ii) |
+| [0212-word-search-ii](https://github.com/tanishjain09/LeetCode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/tanishjain09/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/tanishjain09/LeetCode/tree/master/0282-expression-add-operators) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tanishjain09/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -827,6 +830,7 @@
 | [0064-minimum-path-sum](https://github.com/tanishjain09/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/tanishjain09/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/tanishjain09/LeetCode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/tanishjain09/LeetCode/tree/master/0212-word-search-ii) |
 | [0463-island-perimeter](https://github.com/tanishjain09/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/tanishjain09/LeetCode/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/tanishjain09/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -908,6 +912,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/tanishjain09/LeetCode/tree/master/0139-word-break) |
+| [0212-word-search-ii](https://github.com/tanishjain09/LeetCode/tree/master/0212-word-search-ii) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/tanishjain09/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Simulation
 |  |
